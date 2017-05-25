@@ -116,6 +116,8 @@ It gets even better! Moto isn't just for Python code and it isn't just for S3. L
 |------------------------------------------------------------------------------|
 | SWF                   | @mock_sfw        | basic endpoints done              |
 |------------------------------------------------------------------------------|
+| States                | @mock_states     | basic endpoints done              |
+|------------------------------------------------------------------------------|
 ```
 
 ### Another Example

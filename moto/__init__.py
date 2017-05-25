@@ -34,6 +34,7 @@ from .sqs import mock_sqs, mock_sqs_deprecated  # flake8: noqa
 from .sts import mock_sts, mock_sts_deprecated  # flake8: noqa
 from .ssm import mock_ssm  # flake8: noqa
 from .route53 import mock_route53, mock_route53_deprecated  # flake8: noqa
+from .states import mock_states, mock_states_deprecated  # flake8: noqa
 from .swf import mock_swf, mock_swf_deprecated  # flake8: noqa
 
 
